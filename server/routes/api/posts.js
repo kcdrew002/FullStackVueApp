@@ -39,3 +39,4 @@ async function loadPostsCollection(){
 }
 
 module.exports = router;
+// test
